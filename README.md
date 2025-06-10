@@ -1,6 +1,6 @@
 Olá, sou @Juciana-Lima🤓,
 
-Estou interassada nas linguagens de programação  Python e R.
+Interasse nas linguagens de programação Python e R.
 
 Atualmente aprendendo estas linguagens para aplicação no meu ambiente de trabalho.
 
