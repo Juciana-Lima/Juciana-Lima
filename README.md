@@ -8,8 +8,11 @@ Atualmente Economista no Instituto Federal de Sergipe (IFS) desenvolvendo trabal
 Experiência em Planejamento Estratégico, buscando conhecimento e aperfeiçoamento em Governança, Gestão e Análise de Dados. Interesse nas linguagens de programação SQL, Python e R.
 
 👩🏻‍💻Para saber mais sobre mim:
-      Linkedin: https://www.linkedin.com/in/jucianalima/
-      Currículo Lattes: http://lattes.cnpq.br/2658224562713726
+
+Linkedin: https://www.linkedin.com/in/jucianalima/
+
+
+Currículo Lattes: http://lattes.cnpq.br/2658224562713726
 
 
 
